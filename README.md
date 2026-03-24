@@ -1,11 +1,6 @@
 # TFG-Miguel-Triguero-Romero-Excel-VBA
 Herramienta integral en Excel-VBA para la gestión de resultados académicos en el CUD
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VBA-744DA9?style=for-the-badge&logo=visual-basic-for-applications&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estado-Finalizado-success?style=for-the-badge" />
-</div>
 
 <br />
 
@@ -42,7 +37,7 @@ Cálculo automatizado de métricas de alto nivel:
 
 ---
 
-## 📸 Vista Previa (Capturas)
+## Vista Previa (Capturas)
 
 | Interfaz de Usuario | Informe Narrativo | Análisis Visual |
 | :---: | :---: | :---: |
@@ -51,16 +46,16 @@ Cálculo automatizado de métricas de alto nivel:
 
 ---
 
-## 🛠️ Estructura del Repositorio
+## Estructura del Repositorio
 
-* 📁 **`/src`**: Módulos de código fuente.
-* 📁 **`/docs`**: Documentación del proyecto y Memoria del TFG.
-* 📁 **`/test`**: Bases de datos utilizadas para la validación (generadas mediante IA).
-* 📄 **`Herramienta_TFG_MMTT.xlsm`**: Archivo principal ejecutable.
+* **`/src`**: Módulos de código fuente.
+* **`/docs`**: Documentación del proyecto y Memoria del TFG.
+* **`/test`**: Bases de datos utilizadas para la validación (generadas mediante IA).
+* **`Herramienta_TFG_MMTT.xlsm`**: Archivo principal ejecutable.
 
 ---
 
-## ⚙️ Instrucciones de Uso
+## Instrucciones de Uso
 1.  **Descargar:** Clona el repositorio o descarga el archivo `.xlsm`.
 2.  **Seguridad:** Al abrir el archivo, haz clic en **"Habilitar macros"**.
 3.  **Carga:** Introduce las notas en la hoja "Notas".
@@ -68,7 +63,7 @@ Cálculo automatizado de métricas de alto nivel:
 
 ---
 
-## 👤 Autor y Dirección
+## Autor y Dirección
 * **Autor:** Miguel Triguero Romero
 * **Directores:** Sergio Borrallo Tirado
 * **Institución:** Centro Universitario de la Defensa en la Escuela Naval Militar (Universidade de Vigo).
