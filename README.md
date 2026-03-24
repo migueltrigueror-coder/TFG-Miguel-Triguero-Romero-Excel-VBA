@@ -3,11 +3,8 @@
 
 [![Código](https://img.shields.io/badge/_Ver_Código_VBA-src-blue?style=for-the-badge)](./src)
 [![Docs](https://img.shields.io/badge/_Documentación-docs-green?style=for-the-badge)](./docs)
-
-
 </div>
 <br />
-
 <div align="center">
   <h1>Sistema de Análisis Académico Automatizado</h1>
   <p><i>Desarrollo de una herramienta integral en Excel-VBA para la gestión de resultados y generación de informes estadísticos.</i></p>
