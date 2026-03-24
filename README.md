@@ -2,61 +2,80 @@
 Herramienta integral en Excel-VBA para la gestión de resultados académicos en el CUD
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VBA-Informes_Académicos-green?style=for-the-badge&logo=visual-basic-for-applications&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-2026-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUD-Ingeniería_Mecánica-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VBA-744DA9?style=for-the-badge&logo=visual-basic-for-applications&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estado-Finalizado-success?style=for-the-badge" />
 </div>
 
 <br />
 
 <div align="center">
-  <h1>📊 Sistema Experto de Análisis Académico</h1>
-  <p><i>Herramienta integral en Excel-VBA para el análisis automatizado de resultados y generación de informes estadísticos.</i></p>
+  <h1>Sistema de Análisis Académico Automatizado</h1>
+  <p><i>Desarrollo de una herramienta integral en Excel-VBA para la gestión de resultados y generación de informes estadísticos.</i></p>
+  <p><b>Trabajo Fin de Grado - Ingeniería Mecánica (CUD / ENM)</b></p>
 </div>
 
 ---
 
-## 🌟 Vista General del Proyecto
-Este proyecto desarrolla una solución avanzada para la gestión docente en el **Centro Universitario de la Defensa (CUD)**. Permite transformar actas de calificaciones en crudo en diagnósticos detallados mediante el uso de lógica algorítmica y estadística descriptiva.
+## Resumen del Proyecto
+Esta herramienta ha sido diseñada para optimizar la gestión docente en el **Centro Universitario de la Defensa**. Mediante programación avanzada en **VBA**, la aplicación permite transformar actas de calificaciones en diagnósticos detallados, evaluando tanto el rendimiento individual del alumnado como la calidad psicométrica de las pruebas de evaluación.
 
-### 📸 Galería de la Herramienta
-| Panel de Control | Informe de Alumno Tipo | Análisis de Examen |
+---
+
+## Funcionalidades Principales
+
+### Inteligencia de Datos y Patrones
+La herramienta no solo calcula notas, sino que utiliza algoritmos para identificar perfiles específicos:
+* **Identificación de "Alumnos Tipo":** Clasificación automática en perfiles (Constante, Evolutivo Positivo, Riesgo Académico, etc.).
+* **Caracterización de "Exámenes Tipo":** Análisis de la prueba (Discriminativa, Fácil, Difícil, etc.) basado en índices de dificultad y discriminación.
+
+### Parámetros Estadísticos
+Cálculo automatizado de métricas de alto nivel:
+* **Estadística Descriptiva:** Media, Mediana, Desviación Típica.
+* **Análisis de Distribución:** Coeficientes de Asimetría y Curtosis.
+* **Métricas Educativas:** Índice de Dificultad e Índice de Discriminación.
+
+### Generación de Informes y Visualización
+* **Informes Narrativos:** Traducción de datos numéricos a texto coherente de forma automatizada.
+* **Gráficos Dinámicos:** Generación síncrona de Gráficos.
+* **Exportación:** Generación de informes en formato PDF.
+
+---
+
+## 📸 Vista Previa (Capturas)
+
+| Interfaz de Usuario | Informe Narrativo | Análisis Visual |
 | :---: | :---: | :---: |
-| <img src="img/dashboard.png" width="250" /> | <img src="img/alumno_tipo.png" width="250" /> | <img src="img/examen_tipo.png" width="250" /> |
-| *Interfaz principal de usuario* | *Detección de patrones (Ej: Constante Medio)* | *Clasificación (Ej: Examen Discriminativo)* |
+| <img src="img/interfaz.png" width="300" /> | <img src="img/informe_texto.png" width="300" /> | <img src="img/graficos.png" width="300" /> |
+| *Formularios de control VBA* | *Diagnóstico de Alumno Tipo* | *Distribución y Boxplots* |
 
 ---
 
-## 🛠️ Funcionalidades Estrella
-* **🤖 Inteligencia en el Informe:** Redacción automática de texto diagnóstico según el rendimiento.
-* **📈 Estadística Educativa:** Cálculo de índices de dificultad, discriminación, asimetría y curtosis.
-* **🎯 Identificación de Perfiles:** Algoritmos para detectar "Alumnos Tipo" y "Exámenes Tipo".
-* **📄 Exportación Pro:** Generación de archivos PDF listos para actas oficiales.
+## 🛠️ Estructura del Repositorio
+
+* 📁 **`/src`**: Módulos de código fuente.
+* 📁 **`/docs`**: Documentación del proyecto y Memoria del TFG.
+* 📁 **`/test`**: Bases de datos utilizadas para la validación (generadas mediante IA).
+* 📄 **`Herramienta_TFG_MMTT.xlsm`**: Archivo principal ejecutable.
 
 ---
 
-## 📊 Indicadores Estadísticos Implementados
-A continuación se muestran los parámetros clave que la herramienta procesa automáticamente:
-
-| Indicador | Función | Impacto Pedagógico |
-| :--- | :--- | :--- |
-| **Media/Desviación** | Tendencia central y dispersión | Nivel global del grupo |
-| **Índice Dificultad** | Porcentaje de acierto por ítem | Validación del nivel de la prueba |
-| **Índice Discriminación** | Capacidad de distinguir rendimiento | Calidad de las preguntas del examen |
-| **Asimetría/Curtosis** | Forma de la distribución de notas | Detección de sesgos en la evaluación |
+## ⚙️ Instrucciones de Uso
+1.  **Descargar:** Clona el repositorio o descarga el archivo `.xlsm`.
+2.  **Seguridad:** Al abrir el archivo, haz clic en **"Habilitar macros"**.
+3.  **Carga:** Introduce las notas en la hoja "Notas".
+4.  **Ejecución:** Utiliza el panel de control para generar los informes deseados (Examen, Alumno o Acta Final).
 
 ---
 
-## ⚙️ Requisitos e Instalación
-1. **Software:** Microsoft Excel (Versión 2016 o superior).
-2. **Macros:** Es necesario habilitar el contenido de macros (`.xlsm`) al abrir el archivo.
-3. **Uso:** - Pestaña `Base de Datos`: Introducir calificaciones.
-    - Botón `Procesar`: Ejecuta los algoritmos VBA.
-    - Pestaña `Informes`: Visualización de resultados.
+## 👤 Autor y Dirección
+* **Autor:** Miguel Triguero Romero
+* **Directores:** Sergio Borrallo Tirado
+* **Institución:** Centro Universitario de la Defensa en la Escuela Naval Militar (Universidade de Vigo).
+* **Curso:** 2025-2026
 
 ---
 
 <div align="center">
-  <p><b>Autor:</b> Miguel Triguero Romero | <b>Tutor:</b> Sergio Borrallo Tirado</p>
-  <p>Curso Académico 2025-2026 - Escuela Naval Militar (CUD)</p>
+  <sub>Este proyecto ha sido desarrollado como parte del Grado en Ingeniería Mecánica.</sub>
 </div>
