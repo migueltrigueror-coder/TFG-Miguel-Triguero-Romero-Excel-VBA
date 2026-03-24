@@ -41,7 +41,7 @@ Cálculo automatizado de métricas de alto nivel:
 
 | Interfaz de Usuario | Informe Narrativo | Análisis Visual |
 | :---: | :---: | :---: |
-| <img src="img/interfaz.png" width="300" /> | <img src="img/informe_texto.png" width="300" /> | <img src="img/graficos.png" width="300" /> |
+| <img src="img/image.png" width="300" /> | <img src="img/informe_texto.png" width="300" /> | <img src="img/graficos.png" width="300" /> |
 | *Formularios de control VBA* | *Diagnóstico de Alumno Tipo* | *Distribución y Boxplots* |
 
 ---
