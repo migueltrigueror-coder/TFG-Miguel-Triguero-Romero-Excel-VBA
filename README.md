@@ -1,6 +1,12 @@
 # TFG-Miguel-Triguero-Romero-Excel-VBA
 Herramienta integral en Excel-VBA para la gestión de resultados académicos en el CUD
+<div align="center">
 
+[![Código](https://img.shields.io/badge/📂_Ver_Código-src-blue?style=for-the-badge)](./src)
+[![Docs](https://img.shields.io/badge/📄_Documentación-docs-green?style=for-the-badge)](./docs)
+[![Data](https://img.shields.io/badge/📊_Datos_Prueba-data-orange?style=for-the-badge)](./test)
+
+</div>
 
 <br />
 
