@@ -39,10 +39,10 @@ Cálculo automatizado de métricas de alto nivel:
 
 ## Vista Previa (Capturas)
 
-| Interfaz de Usuario | Análisis Visual  | Informe Narrativo|
+| Interfaz de Usuario | Informe Examen | Informe Alumno|
 | :---: | :---: | :---: |
-| <img src="img/image.png" width="300" /> | <img src="img/informe_texto.png" width="300" /> | <img src="img/graficos.png" width="300" /> |
-| *Formularios de control VBA* | *Gráficos Estadísticos* | *Informe de Diagnóstico* |
+| <img src="img/imagen2.png" width="300" /> | <img src="img/InfExamen.png" width="300" /> | <img src="img/InfAlumno.png" width="300" /> |
+| *Formularios de control VBA* | *Gráficos Estadísticos* | *Gráficos Estadísticos* |
 
 ---
 
