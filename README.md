@@ -41,7 +41,7 @@ Cálculo automatizado de métricas de alto nivel:
 
 ---
 
-## Vista Previa (Capturas)
+## Vista Previa 
 
 | Interfaz de Usuario | Informe Examen | Informe Alumno|
 | :---: | :---: | :---: |
