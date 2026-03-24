@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Código](https://img.shields.io/badge/_Ver_Código VBA-src-blue?style=for-the-badge)](./src)
+[![Código](https://img.shields.io/badge/_Ver_Código_VBA-src-blue?style=for-the-badge)](./src)
 [![Docs](https://img.shields.io/badge/_Documentación-docs-green?style=for-the-badge)](./docs)
 
 
