@@ -41,7 +41,7 @@ Cálculo automatizado de métricas de alto nivel:
 
 | Interfaz de Usuario | Informe Examen | Informe Alumno|
 | :---: | :---: | :---: |
-| <img src="img/imagen2.png" width="300" /> | <img src="img/InfExamen.png" width="300" /> | <img src="img/InfAlumno.png" width="300" /> |
+| <img src="img/Imagen2.png" width="300" /> | <img src="img/InfExamen.png" width="300" /> | <img src="img/InfAlumno.png" width="300" /> |
 | *Formularios de control VBA* | *Gráficos Estadísticos* | *Gráficos Estadísticos* |
 
 ---
