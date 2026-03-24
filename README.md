@@ -50,8 +50,6 @@ Cálculo automatizado de métricas de alto nivel:
 
 * **`/src`**: Módulos de código fuente.
 * **`/docs`**: Documentación del proyecto y Memoria del TFG.
-* **`/test`**: Bases de datos utilizadas para la validación (generadas mediante IA).
-* **`Herramienta_TFG_MMTT.xlsm`**: Archivo principal ejecutable.
 
 ---
 
@@ -59,13 +57,13 @@ Cálculo automatizado de métricas de alto nivel:
 1.  **Descargar:** Clona el repositorio o descarga el archivo `.xlsm`.
 2.  **Seguridad:** Al abrir el archivo, haz clic en **"Habilitar macros"**.
 3.  **Carga:** Introduce las notas en la hoja "Notas".
-4.  **Ejecución:** Utiliza el panel de control para generar los informes deseados (Examen, Alumno o Acta Final).
+4.  **Ejecución:** Utiliza los botones para generar los informes deseados (Examen, Alumno o Acta Final).
 
 ---
 
 ## Autor y Dirección
 * **Autor:** Miguel Triguero Romero
-* **Directores:** Sergio Borrallo Tirado
+* **Director:** Sergio Borrallo Tirado
 * **Institución:** Centro Universitario de la Defensa en la Escuela Naval Militar (Universidade de Vigo).
 * **Curso:** 2025-2026
 
